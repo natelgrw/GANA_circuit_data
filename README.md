@@ -5,7 +5,7 @@ The code in this repository reads multiple OTA circuits graphs and processs them
 
 [//]: # (Base code has been taken from https://github.com/mdeff/cnn_graph)
 
-# The inputs needed for GNN are:
+# GNN Inputs:
 1. N by N adjacency matrix (N is the number of nodes),
 2. N by D feature matrix (D is the number of features per node), and
 3. N by E binary label matrix (E is the number of classes).
