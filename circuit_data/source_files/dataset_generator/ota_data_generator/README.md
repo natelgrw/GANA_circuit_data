@@ -1,4 +1,4 @@
-# OTA topologies
+# OTA Topologies
 
 There are several operational transconductance amplifier (OTA) topologies that can potentially be used in analog design.
 This directory aims to act as a one-top-shop by compiling various commonly used OTA topolgies compiled from different literature sources into one location.
@@ -7,7 +7,7 @@ All these structures are provided in SPICE netlist format. The folder contains a
 topologies.
 
 
-## Directory structure
+## Directory Structure
 - *bias*: contains different bias topologies which provide voltage reference to local generators (15 circuits)
 - *local_generation*: contains various local current/voltage biasing used for OTA circuits
 - *OTA*: contains OTA signal path topologies
