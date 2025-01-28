@@ -1,5 +1,5 @@
-# Circuit data for GANA
-## GANA: Graph Convolutional Network Based Automated Netlist Annotation for Analog Circuits
+# GANA Circuit Data
+## GANA: Graph Convolutional Network Based Automated Netlist Annotation For Analog Circuits
 
 The code in this repository reads multiple OTA circuits graphs and processs them to prepare inputs for GNN.
 
@@ -11,7 +11,7 @@ The code in this repository reads multiple OTA circuits graphs and processs them
 3. N by E binary label matrix (E is the number of classes).
 
 
-# Creating the input data for GANA:
+# Creating GANA Input Data:
 To create graph from spice files:
 
 ```
