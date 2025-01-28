@@ -13,5 +13,5 @@ topologies.
 - *OTA*: contains OTA signal path topologies
 - *merge_OTA.py*: utilizes *bias, local_generation, OTA* subcircuits to generate full OTA circuits with proper biasing
 - *LOG*: contains a document documenting all pin errors resulting from combining different subcircuit topologies
-- *FULL_OTA*: contains netlists resulting from the combination of bias, local_generation, and OTA topologies
+- *FULL_OTA*: contains generated netlists resulting from the combination of bias, local_generation, and OTA topologies
 
